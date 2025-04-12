@@ -6,7 +6,26 @@ This project is a learning demo for **JavaServer Pages (JSP)**, **Servlets**, an
 
 ## 📁 Project Structure
 
-learnJSP/ ├── src/ │ └── main/ │ ├── java/ │ │ └── com.example.learnjsp/ │ │ ├── HelloServlet.java │ │ └── Test_class.java │ ├── resources/ │ └── webapp/ │ ├── WEB-INF/ │ │ └── web.xml │ ├── Builtin_object.jsp │ ├── date.jsp │ ├── declaration.jsp │ ├── index.jsp │ └── Scripts_test.jsp ├── target/ # Compiled classes └── pom.xml # Maven project file
+learnJSP/
+├── src/
+│ └── main/
+│ ├── java/ │ 
+└── com.example.learnjsp/ │
+│ ├── HelloServlet.java │
+│ └── Test_class.java │
+├── resources/ │
+└── webapp/ │
+├── WEB-INF/
+│
+│ └── web.xml
+│
+├── Builtin_object.jsp │
+├── date.jsp │
+├── declaration.jsp │
+├── index.jsp │
+└── Scripts_test.jsp
+├── target/ # Compiled classes
+└── pom.xml # Maven project file
 
 
 ---
